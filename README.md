@@ -54,17 +54,17 @@ Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey
 
 > **Some summary repositories**
 
-[Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tabular-LLMs)
+- [Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tabular-LLMs)
 
-[Awesome-LLM-Tabular](https://github.com/johnnyhwu/Awesome-LLM-Tabular)
+- [Awesome-LLM-Tabular](https://github.com/johnnyhwu/Awesome-LLM-Tabular)
 
-[Tabular-LLM](https://github.com/SpursGoZmy/Tabular-LLM)
+- [Tabular-LLM](https://github.com/SpursGoZmy/Tabular-LLM)
 
-[LLM-on-Tabular-Data-Prediction-Table-Understanding-Data-Generation](https://github.com/tanfiona/LLM-on-Tabular-Data-Prediction-Table-Understanding-Data-Generation)
+- [LLM-on-Tabular-Data-Prediction-Table-Understanding-Data-Generation](https://github.com/tanfiona/LLM-on-Tabular-Data-Prediction-Table-Understanding-Data-Generation)
 
-[Resources for Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
+- [Resources for Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
 
-[TabSurvey](https://github.com/kathrinse/TabSurvey)
+- [TabSurvey](https://github.com/kathrinse/TabSurvey)
 
 
 
