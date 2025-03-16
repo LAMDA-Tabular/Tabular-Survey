@@ -14,27 +14,55 @@ Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey
 [02/2023] The repository has been released.
 
 ## Other Resources
-### Awesome Toolboxs
-- [RTDL](https://github.com/yandex-research/rtdl): A collection of papers and packages on deep learning for tabular data.
-- [TALENT](https://github.com/qile2000/LAMDA-TALENT): A comprehensive toolkit and benchmark for tabular data learning, featuring 30 deep methods, more than 10 classical methods, and 300 diverse tabular datasets.
-- [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular): A standard framework for modelling Deep Learning Models for tabular data.
-- [pytorch-frame](https://github.com/pyg-team/pytorch-frame): A modular deep learning framework for building neural network models on heterogeneous tabular data.
-- [DeepTables](https://github.com/DataCanvasIO/DeepTables): An easy-to-use toolkit that enables deep learning to unleash great power on tabular data.
-- ...
-
 ### Benchmarks
 
+| Date | Name                                  | Paper                                                        | Publication | Code                                                         |
+| ---- | ------------------------------------- | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| 2025 | TabRed                                | [TabReD: Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks](https://arxiv.org/abs/2406.19380) | ICLR        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabred) |
+| 2024 | Data-Centric Benchmark                | [A Data-Centric Perspective on Evaluating Machine Learning Models for Tabular Data](https://arxiv.org/abs/2407.02112) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/atschalz/dc_tabeval) |
+| 2024 | Better_by_Default                     | [Better by Default: Strong Pre-Tuned MLPs and Boosted Trees on Tabular Data](https://arxiv.org/abs/2407.04491) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dholzmueller/pytabkit) |
+| 2024 | LAMDA-Tabular-Bench                   | [A Closer Look at Deep Learning Methods on Tabular Datasets](https://arxiv.org/abs/2407.00956) | CoRR        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/qile2000/LAMDA-TALENT) |
+| 2024 | DMLR-ICLR24-datasets-for-benchmarking | [Towards Quantifying the Effect of Datasets for Benchmarking: A Look at Tabular Machine Learning](https://ml.informatik.uni-freiburg.de/wp-content/uploads/2024/04/61_towards_quantifying_the_effect.pdf) | DMLR        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/automl/dmlr-iclr24-datasets-for-benchmarking) |
+| 2024 | TableShift                            | [Benchmarking Distribution Shift in Tabular Data with TableShift](https://arxiv.org/abs/2312.07577) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/mlfoundations/tableshift) |
+| 2024 | TabZilla                              | [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/abs/2305.02997) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/naszilla/tabzilla) |
+| 2023 | Grinsztajn et al. benchmark           | [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/LeoGrin/tabular-benchmark) |
+| 2023 | RTDL                                  | [Revisiting Deep Learning Models for Tabular Data](https://arxiv.org/abs/2106.11959) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/rtdl-revisiting-models) |
+| 2023 | WellTunedSimpleNets                   | [Well-tuned Simple Nets Excel on Tabular Datasets](https://arxiv.org/abs/2106.11189) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/machinelearningnuremberg/WellTunedSimpleNets) |
 
-- [Data-Centric Benchmark](https://github.com/atschalz/dc_tabeval): [A Data-Centric Perspective on Evaluating Machine Learning Models for Tabular Data](https://arxiv.org/abs/2407.02112).
-- [Better_by_Default](https://github.com/dholzmueller/pytabkit): [Better by Default: Strong Pre-Tuned MLPs and Boosted Trees on Tabular Data](https://arxiv.org/abs/2407.04491).
-- [Benchmark](https://github.com/qile2000/LAMDA-TALENT): [A Closer Look at Deep Learning Methods on Tabular Datasets](https://arxiv.org/abs/2407.00956); Datasets are available at [Google Drive](https://drive.google.com/drive/folders/1j1zt3zQIo8dO6vkO-K-WE6pSrl71bf0z?usp=drive_link).
-- [DMLR-ICLR24-datasets-for-benchmarking](https://github.com/automl/dmlr-iclr24-datasets-for-benchmarking): [Towards Quantifying the Effect of Datasets for Benchmarking:
-A Look at Tabular Machine Learning](https://ml.informatik.uni-freiburg.de/wp-content/uploads/2024/04/61_towards_quantifying_the_effect.pdf).
-- [TabZilla](https://github.com/naszilla/tabzilla): [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/abs/2305.02997)
-- [Grinsztajn et al. benchmark](https://github.com/LeoGrin/tabular-benchmark): [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815)
-- [RTDL](https://github.com/yandex-research/rtdl-revisiting-models): [Revisiting Deep Learning Models for Tabular Data](https://arxiv.org/abs/2106.11959)
-- [WellTunedSimpleNets](https://github.com/machinelearningnuremberg/WellTunedSimpleNets): [Well-tuned Simple Nets Excel on Tabular Datasets](https://arxiv.org/abs/2106.11189)
+### Awesome Toolboxs
+
+- [**RTDL**](https://github.com/yandex-research/rtdl): A collection of papers and packages on deep learning for tabular data.
+- [**TALENT**](https://github.com/qile2000/LAMDA-TALENT): A comprehensive toolkit and benchmark for tabular data learning, featuring 30 deep methods, more than 10 classical methods, and 300 diverse tabular datasets.
+- [**pytorch_tabular**](https://github.com/manujosephv/pytorch_tabular): A standard framework for modelling Deep Learning Models for tabular data.
+- [**pytorch-frame**](https://github.com/pyg-team/pytorch-frame): A modular deep learning framework for building neural network models on heterogeneous tabular data.
+- [**DeepTables**](https://github.com/DataCanvasIO/DeepTables): An easy-to-use toolkit that enables deep learning to unleash great power on tabular data.
 - ...
+
+### Other Awesome Repositories
+> **TabPFN and its extensions**
+- [**TabPFN v1**](https://github.com/PriorLabs/TabPFN/tree/tabpfn_v1): [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://arxiv.org/abs/2207.01848).
+- [**TabPFN v2**](https://github.com/PriorLabs/TabPFN): [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6).
+- [**TabPFN extensions**](https://github.com/PriorLabs/tabpfn-extensions).
+- [**TabPFN-Time-Series**](https://github.com/PriorLabs/tabpfn-time-series): [The Tabular Foundation Model TabPFN Outperforms Specialized Time Series Forecasting Models Based on Simple Features](https://arxiv.org/abs/2501.02945).
+- [**TabICL**](https://github.com/soda-inria/tabicl): [TabICL: A Tabular Foundation Model for In-Context Learning on Large Data](https://arxiv.org/abs/2502.05564).
+- [**TICL**](https://github.com/microsoft/ticl):
+  - [MotherNet: A Foundational Hypernetwork for Tabular Classification](https://arxiv.org/abs/2312.08598); 
+  - [TabFlex: Scaling Tabular Learning to Millions with Linear Attention](https://openreview.net/forum?id=f8aganC0tN); 
+  - [GAMFormer](https://arxiv.org/abs/2410.04560).
+- ...
+
+> **Some summary repositories**
+
+[Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tabular-LLMs)
+
+[Awesome-LLM-Tabular](https://github.com/johnnyhwu/Awesome-LLM-Tabular)
+
+[Tabular-LLM](https://github.com/SpursGoZmy/Tabular-LLM)
+
+[LLM-on-Tabular-Data-Prediction-Table-Understanding-Data-Generation](https://github.com/tanfiona/LLM-on-Tabular-Data-Prediction-Table-Understanding-Data-Generation)
+
+[Resources for Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
+
 
 
 
@@ -165,6 +193,7 @@ Tabular data remains a cornerstone of machine learning applications across diver
 
 - [Table Representation Learning Workshop @ NeurIPS 2023](https://neurips.cc/virtual/2023/workshop/66546)
 - [Table Representation Learning Workshop @ NeurIPS 2024](https://table-representation-learning.github.io/)
+- [Table Representation Learning Workshop @ ACL 2025](https://table-representation-learning.github.io/ACL2025/)
 
 ## Acknowledgment
 
