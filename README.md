@@ -13,7 +13,7 @@ Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey
 
 [02/2023] The repository has been released.
 
-## Other Resources
+## Some Basic Resources
 ### Benchmarks
 
 | Date | Name                                  | Paper                                                        | Publication | Code                                                         |
@@ -26,6 +26,7 @@ Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey
 | 2024 | TableShift                            | [Benchmarking Distribution Shift in Tabular Data with TableShift](https://arxiv.org/abs/2312.07577) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/mlfoundations/tableshift) |
 | 2024 | TabZilla                              | [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/abs/2305.02997) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/naszilla/tabzilla) |
 | 2023 | Grinsztajn et al. benchmark           | [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/LeoGrin/tabular-benchmark) |
+|   2023  |EncoderBenchmarking |[A benchmark of categorical encoders for binary classification](https://arxiv.org/abs/2307.09191)|NeurIPS| [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/DrCohomology/EncoderBenchmarking)|
 | 2023 | RTDL                                  | [Revisiting Deep Learning Models for Tabular Data](https://arxiv.org/abs/2106.11959) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/rtdl-revisiting-models) |
 | 2023 | WellTunedSimpleNets                   | [Well-tuned Simple Nets Excel on Tabular Datasets](https://arxiv.org/abs/2106.11189) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/machinelearningnuremberg/WellTunedSimpleNets) |
 
@@ -62,6 +63,8 @@ Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey
 [LLM-on-Tabular-Data-Prediction-Table-Understanding-Data-Generation](https://github.com/tanfiona/LLM-on-Tabular-Data-Prediction-Table-Understanding-Data-Generation)
 
 [Resources for Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
+
+[TabSurvey](https://github.com/kathrinse/TabSurvey)
 
 
 
