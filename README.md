@@ -5,7 +5,7 @@ Awesome Tabular Deep Learning for "[Representation Learning for Tabular Data: A 
     @article{xxx
      }
 
-Feel free to [create new issues](xxx) or [drop me an email](mailto:jiangjp@lamda.nju.edu.cn) if you find any interesting paper missing in our survey, and we shall include them in the next version.
+Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey/issues/new) or [drop me an email](mailto:jiangjp@lamda.nju.edu.cn) if you find any interesting paper missing in our survey, and we shall include them in the next version.
 
 ## Updates
 
@@ -14,10 +14,29 @@ Feel free to [create new issues](xxx) or [drop me an email](mailto:jiangjp@lamda
 [02/2023] The repository has been released.
 
 ## Other Resources
+### Awesome Toolboxs
+- [RTDL](https://github.com/yandex-research/rtdl): A collection of papers and packages on deep learning for tabular data.
+- [TALENT](https://github.com/qile2000/LAMDA-TALENT): A comprehensive toolkit and benchmark for tabular data learning, featuring 30 deep methods, more than 10 classical methods, and 300 diverse tabular datasets.
+- [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular): A standard framework for modelling Deep Learning Models for tabular data.
+- [pytorch-frame](https://github.com/pyg-team/pytorch-frame): A modular deep learning framework for building neural network models on heterogeneous tabular data.
+- [DeepTables](https://github.com/DataCanvasIO/DeepTables): An easy-to-use toolkit that enables deep learning to unleash great power on tabular data.
+- ...
 
-- [TALENT](https://github.com/qile2000/LAMDA-TALENT): A comprehensive machine learning toolbox
-- [Benchmark](https://arxiv.org/abs/2407.00956): A Closer Look at Deep Learning Methods on Tabular Datasets; Datasets are available at [Google Drive](https://drive.google.com/drive/folders/1j1zt3zQIo8dO6vkO-K-WE6pSrl71bf0z?usp=drive_link)
-- [Baseline](https://arxiv.org/abs/2407.03257): Revisiting Nearest Neighbor for Tabular Data: A Deep Tabular Baseline Two Decades Later
+### Benchmarks
+
+
+- [Data-Centric Benchmark](https://github.com/atschalz/dc_tabeval): [A Data-Centric Perspective on Evaluating Machine Learning Models for Tabular Data](https://arxiv.org/abs/2407.02112).
+- [Better_by_Default](https://github.com/dholzmueller/pytabkit): [Better by Default: Strong Pre-Tuned MLPs and Boosted Trees on Tabular Data](https://arxiv.org/abs/2407.04491).
+- [Benchmark](https://github.com/qile2000/LAMDA-TALENT): [A Closer Look at Deep Learning Methods on Tabular Datasets](https://arxiv.org/abs/2407.00956); Datasets are available at [Google Drive](https://drive.google.com/drive/folders/1j1zt3zQIo8dO6vkO-K-WE6pSrl71bf0z?usp=drive_link).
+- [DMLR-ICLR24-datasets-for-benchmarking](https://github.com/automl/dmlr-iclr24-datasets-for-benchmarking): [Towards Quantifying the Effect of Datasets for Benchmarking:
+A Look at Tabular Machine Learning](https://ml.informatik.uni-freiburg.de/wp-content/uploads/2024/04/61_towards_quantifying_the_effect.pdf).
+- [TabZilla](https://github.com/naszilla/tabzilla): [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/abs/2305.02997)
+- [Grinsztajn et al. benchmark](https://github.com/LeoGrin/tabular-benchmark): [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815)
+- [RTDL](https://github.com/yandex-research/rtdl-revisiting-models): [Revisiting Deep Learning Models for Tabular Data](https://arxiv.org/abs/2106.11959)
+- [WellTunedSimpleNets](https://github.com/machinelearningnuremberg/WellTunedSimpleNets): [Well-tuned Simple Nets Excel on Tabular Datasets](https://arxiv.org/abs/2106.11189)
+- ...
+
+
 
 ## Introduction
 
