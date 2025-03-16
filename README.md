@@ -194,6 +194,7 @@ Tabular data remains a cornerstone of machine learning applications across diver
 
 ## Workshops
 
+- [Table Representation Learning Workshop @ NeurIPS 2022](https://neurips.cc/virtual/2022/workshop/49995)
 - [Table Representation Learning Workshop @ NeurIPS 2023](https://neurips.cc/virtual/2023/workshop/66546)
 - [Table Representation Learning Workshop @ NeurIPS 2024](https://table-representation-learning.github.io/)
 - [Table Representation Learning Workshop @ ACL 2025](https://table-representation-learning.github.io/ACL2025/)
