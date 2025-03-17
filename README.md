@@ -262,12 +262,20 @@ We conclude by addressing open problems and directions for future research in th
 
 - [Best of both worlds: Multimodal contrastive learning with tabular and imaging data](http://openaccess.thecvf.com/content/CVPR2023/html/Hager_Best_of_Both_Worlds_Multimodal_Contrastive_Learning_With_Tabular_and_CVPR_2023_paper.html)
 - [Tabular insights, visual impacts: Transferring expertise from tables to images](https://proceedings.mlr.press/v235/jiang24h.html)
-- [Tip: Tabular-image pre-training for multimodal classification with incomplete data](Tip: Tabular-image pre-training for multimodal classification with incomplete data)
+- [Tip: Tabular-image pre-training for multimodal classification with incomplete data](https://arxiv.org/abs/2407.07582)
 - ...
 
 > **Tabular Understanding**
 
+- [Tablebank: Table benchmark for image-based table detection and recognition](https://arxiv.org/abs/1903.01949)
+- [Multimodalqa: Complex question answering over text, tables and images](https://arxiv.org/abs/2104.06039)
+- [Donut: Document understanding transformer without ocr](https://arxiv.org/abs/2111.15664)
+- [Monkey: Image resolution and text label are important things for large multi-modal models](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Monkey_Image_Resolution_and_Text_Label_Are_Important_Things_for_CVPR_2024_paper.pdf)
+- [mPLUG-DocOwl: Modularized multimodal large language model for document understanding](https://arxiv.org/pdf/2307.02499)
+- [Tabpedia: Towards comprehensive visual table understanding with concept synergy](https://proceedings.neurips.cc/paper_files/paper/2024/file/0d97fe65d7a1dc12a05642d9fa4cd578-Paper-Conference.pdf)
 - ...
+
+Please refer to [Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tabular-LLMs) for more information.
 
 
 
