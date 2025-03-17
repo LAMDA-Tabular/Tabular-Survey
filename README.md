@@ -202,6 +202,23 @@ We conclude by addressing open problems and directions for future research in th
 
 
 
+## Ensemble Methods
+
+| Date | Name          | Paper                                                        | Publication | Code                                                         |
+| ---: | :------------ | :----------------------------------------------------------- | :---------- | :----------------------------------------------------------- |
+| 2025 |   TabM    | [TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling](https://arxiv.org/abs/2410.24210) |        ICLR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabm) |
+| 2025 | TabPFN v2 | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | Nature      | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/PriorLabs/TabPFN) |
+| 2025 |   Beta    | [Tabpfn unleashed: A scalable and effective solution to tabular classification problems](https://arxiv.org/abs/2502.02527) | CoRR        |    |
+| 2025 | LLM-Boost, PFN-Boost | [Transformers Boost the Performance of Decision Trees on Tabular Data across Sample Sizes](https://arxiv.org/abs/2502.02672) |        CoRR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/MayukaJ/LLM-Boost) |
+| 2024 | HyperFast | [Hyperfast: Instant classification for tabular data](https://ojs.aaai.org/index.php/AAAI/article/view/28988) | AAAI        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/AI-sandbox/HyperFast) |
+| 2024 |  GRANDE   | [GRANDE: gradient-based decision tree ensembles for tabular data](https://openreview.net/forum?id=XEFWBxi075) |        ICLR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/s-marton/GRANDE) |
+| 2023 |   TabPTM    | [Training-free generalization on heterogeneous tabular data via meta-representation](https://arxiv.org/abs/2311.00055) |        CoRR         |    |
+| 2023 |   TabPFN    | [Tabpfn: A transformer that solves small tabular classification problems in a second](https://openreview.net/forum?id=cp5PvcI6w8_) | ICLR        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/PriorLabs/TabPFN) |
+| 2020 | TabTransformer | [Tabtransformer: Tabular data modeling using contextual embeddings](https://arxiv.org/abs/2012.06678) |        CoRR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/lucidrains/tab-transformer-pytorch) |
+| 2020 |  GrowNet  | [Gradient boosting neural networks: Grownet](https://arxiv.org/abs/2002.07971) |        CoRR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/sbadirli/GrowNet) |
+| 2020 |   NODE    | [Neural oblivious decision ensembles for deep learning on tabular data](https://openreview.net/forum?id=r1eiu2VtwH) |        ICLR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Qwicen/node) |
+
+
 ## Workshops
 
 - [Table Representation Learning Workshop @ NeurIPS 2022](https://neurips.cc/virtual/2022/workshop/49995)
