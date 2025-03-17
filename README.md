@@ -24,8 +24,7 @@ Finally, we explore ensemble methods and other extensions of tabular learning to
 We conclude by addressing open problems and directions for future research in the field, aiming to guide advancements in learning with tabular data.
 
 <div align="center">
-  <img src="resources/taxonomy_fig.png" width="90%">
-<img src="resources/roadmap.png" width="90%">
+  <img src="resources/taxo.png" width="90%">
 </div>
 
 ## Some Basic Resources
@@ -89,7 +88,7 @@ We conclude by addressing open problems and directions for future research in th
 ## Specialized Methods
 
 | Date |      Name      |                            Paper                             |     Publication     |                             Code                             |
-| :--: | :------------: | :----------------------------------------------------------: | :-----------------: | :----------------------------------------------------------: |
+| -- | ------------ | ---------------------------------------------------------- | ----------------- | ---------------------------------------------------------- |
 | 2025 |   ModernNCA    | [Revisiting Nearest Neighbor for Tabular Data: A Deep Tabular Baseline Two Decades Later](https://openreview.net/forum?id=JytL2MrlLT) |        ICLR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/qile2000/LAMDA-TALENT) |
 | 2025 |   TabM    | [TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling](https://arxiv.org/abs/2410.24210) |        ICLR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabm) |
 | 2024 |  ExcelFormer   | [Can a deep learning model be a sure bet for tabular prediction?](https://dl.acm.org/doi/abs/10.1145/3637528.3671893) |         KDD         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/whatashot/excelformer) |
@@ -176,28 +175,30 @@ We conclude by addressing open problems and directions for future research in th
 
 ## General Methods
 
-| Date | Name         | Paper                                                        | Publication | Code                                                         |
-| ---: | :----------- | :----------------------------------------------------------- | :---------- | :----------------------------------------------------------- |
-| 2025 | MotherNet    | [MotherNet: Fast Training and Inference via Hyper-Network Transformers](https://openreview.net/forum?id=6H4jRWKFc3&noteId=qln8G23j4b) | ICLR        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/microsoft/ticl?tab=readme-ov-file#MotherNet) |
-| 2025 | TabPFN v2    | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | Nature      | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/PriorLabs/TabPFN) |
-| 2025 | TabForestPFN | [Fine-tuned in-context learning transformers are excellent tabular data classifiers](https://arxiv.org/abs/2405.13396) | CoRR        |                                                              |
-| 2025 | APT          | [Zero-shot meta-learning for tabular prediction tasks with adversarially pre-trained transformer](https://arxiv.org/abs/2502.04573) | CoRR        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yulun-rayn/APT) |
-| 2025 | TabICL       | [Tabicl: A tabular foundation model for in-context learning on large data](https://arxiv.org/abs/2502.05564) | CoRR        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/soda-inria/tabicl) |
-| 2025 | Beta         | [Tabpfn unleashed: A scalable and effective solution to tabular classification problems](https://arxiv.org/abs/2502.02527) | CoRR        |                                                              |
-| 2025 | EquiTabPFN   | [Equitabpfn: A targetpermutation equivariant prior fitted networks](https://arxiv.org/abs/2502.06684) | CoRR        |                                                              |
-| 2025 |              | [Scalable in-context learning on tabular data via retrieval-augmented large language models](https://arxiv.org/abs/2502.03147) | CoRR        |                                                              |
-| 2024 | HyperFast    | [Hyperfast: Instant classification for tabular data](https://ojs.aaai.org/index.php/AAAI/article/view/28988) | AAAI        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/AI-sandbox/HyperFast) |
-| 2024 | TabDPT       | [Tabdpt: Scaling tabular foundation models](https://arxiv.org/pdf/2410.18164?) | CoRR        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/layer6ai-labs/TabDPT) |
-| 2024 | MIXTUREPFN   | [Mixture of incontext prompters for tabular pfns](https://arxiv.org/abs/2405.16156) | CoRR        |                                                              |
-| 2024 | LoCalPFN     | [Retrieval & fine-tuning for in-context tabular models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c40daf14d7a6469e65116507c21faeb7-Abstract-Conference.html) | NeurIPS     | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/layer6ai-labs/LoCalPFN) |
-| 2024 | LE-TabPFN    | [Towards localization via data embedding for tabPFN](https://openreview.net/forum?id=LFyQyV5HxQ) | NeurIPS WS  |                                                              |
-| 2024 | TabFlex      | [Tabflex: Scaling tabular learning to millions with linear attention](https://openreview.net/forum?id=f8aganC0tN) | NeurIPS WS  |                                                              |
-| 2024 |              | [Exploration of autoregressive models for in-context learning on tabular data](https://openreview.net/forum?id=4dOJ0PRY7R) | NeurIPS WS  |                                                              |
-| 2024 | TabuLa-8B    | [Large scale transfer learning for tabular data via language modeling](https://proceedings.neurips.cc/paper_files/paper/2024/hash/4fd5cfd2e31bebbccfa5ffa354c04bdc-Abstract-Conference.html) | NeurIPS     | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/mlfoundations/rtfm) |
-| 2024 | GTL          | [From supervised to generative: A novel paradigm for tabular deep learning with large language models](https://dl.acm.org/doi/abs/10.1145/3637528.3671975) | KDD         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/microsoft/Industrial-Foundation-Models) |
-| 2024 | MediTab      | [Meditab: Scaling medical tabular data predictors via data consolidation, enrichment, and refinement](https://www.ijcai.org/proceedings/2024/0670.pdf) | IJCAI       |                                                              |
-| 2023 | TabPTM       | [Training-free generalization on heterogeneous tabular data via meta-representation](https://arxiv.org/abs/2311.00055) | CoRR        |                                                              |
-| 2023 | TabPFN       | [Tabpfn: A transformer that solves small tabular classification problems in a second](https://openreview.net/forum?id=cp5PvcI6w8_) | ICLR        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/PriorLabs/TabPFN) |
+| Date | Name          | Paper                                                        | Publication | Code                                                         |
+| ---: | :------------ | :----------------------------------------------------------- | :---------- | :----------------------------------------------------------- |
+| 2025 | MotherNet     | [MotherNet: Fast Training and Inference via Hyper-Network Transformers](https://openreview.net/forum?id=6H4jRWKFc3&noteId=qln8G23j4b) | ICLR        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/microsoft/ticl?tab=readme-ov-file#MotherNet) |
+| 2025 | TabPFN v2     | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | Nature      | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/PriorLabs/TabPFN) |
+| 2025 | TabForestPFN* | [Fine-tuned in-context learning transformers are excellent tabular data classifiers](https://arxiv.org/abs/2405.13396) | CoRR        |                                                              |
+| 2025 | APT*          | [Zero-shot meta-learning for tabular prediction tasks with adversarially pre-trained transformer](https://arxiv.org/abs/2502.04573) | CoRR        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yulun-rayn/APT) |
+| 2025 | TabICL*       | [Tabicl: A tabular foundation model for in-context learning on large data](https://arxiv.org/abs/2502.05564) | CoRR        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/soda-inria/tabicl) |
+| 2025 | Beta*         | [Tabpfn unleashed: A scalable and effective solution to tabular classification problems](https://arxiv.org/abs/2502.02527) | CoRR        |                                                              |
+| 2025 | EquiTabPFN*   | [Equitabpfn: A targetpermutation equivariant prior fitted networks](https://arxiv.org/abs/2502.06684) | CoRR        |                                                              |
+| 2025 | *             | [Scalable in-context learning on tabular data via retrieval-augmented large language models](https://arxiv.org/abs/2502.03147) | CoRR        |                                                              |
+| 2024 | HyperFast     | [Hyperfast: Instant classification for tabular data](https://ojs.aaai.org/index.php/AAAI/article/view/28988) | AAAI        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/AI-sandbox/HyperFast) |
+| 2024 | TabDPT*       | [Tabdpt: Scaling tabular foundation models](https://arxiv.org/pdf/2410.18164?) | CoRR        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/layer6ai-labs/TabDPT) |
+| 2024 | MIXTUREPFN*   | [Mixture of incontext prompters for tabular pfns](https://arxiv.org/abs/2405.16156) | CoRR        |                                                              |
+| 2024 | LoCalPFN*     | [Retrieval & fine-tuning for in-context tabular models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c40daf14d7a6469e65116507c21faeb7-Abstract-Conference.html) | NeurIPS     | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/layer6ai-labs/LoCalPFN) |
+| 2024 | LE-TabPFN*    | [Towards localization via data embedding for tabPFN](https://openreview.net/forum?id=LFyQyV5HxQ) | NeurIPS WS  |                                                              |
+| 2024 | TabFlex*      | [Tabflex: Scaling tabular learning to millions with linear attention](https://openreview.net/forum?id=f8aganC0tN) | NeurIPS WS  |                                                              |
+| 2024 | *             | [Exploration of autoregressive models for in-context learning on tabular data](https://openreview.net/forum?id=4dOJ0PRY7R) | NeurIPS WS  |                                                              |
+| 2024 | TabuLa-8B     | [Large scale transfer learning for tabular data via language modeling](https://proceedings.neurips.cc/paper_files/paper/2024/hash/4fd5cfd2e31bebbccfa5ffa354c04bdc-Abstract-Conference.html) | NeurIPS     | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/mlfoundations/rtfm) |
+| 2024 | GTL           | [From supervised to generative: A novel paradigm for tabular deep learning with large language models](https://dl.acm.org/doi/abs/10.1145/3637528.3671975) | KDD         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/microsoft/Industrial-Foundation-Models) |
+| 2024 | MediTab       | [Meditab: Scaling medical tabular data predictors via data consolidation, enrichment, and refinement](https://www.ijcai.org/proceedings/2024/0670.pdf) | IJCAI       |                                                              |
+| 2023 | TabPTM        | [Training-free generalization on heterogeneous tabular data via meta-representation](https://arxiv.org/abs/2311.00055) | CoRR        |                                                              |
+| 2023 | TabPFN        | [Tabpfn: A transformer that solves small tabular classification problems in a second](https://openreview.net/forum?id=cp5PvcI6w8_) | ICLR        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/PriorLabs/TabPFN) |
+
+\* denotes that the method is a variation of TabPFN, which requires fine-tuning for downstream tasks.
 
 
 
