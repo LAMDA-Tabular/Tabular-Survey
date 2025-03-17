@@ -272,6 +272,8 @@ We conclude by addressing open problems and directions for future research in th
 - [Tabpedia: Towards comprehensive visual table understanding with concept synergy](https://proceedings.neurips.cc/paper_files/paper/2024/file/0d97fe65d7a1dc12a05642d9fa4cd578-Paper-Conference.pdf)
 - ...
 
+Please refer to [Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tabular-LLMs) for more information.
+
 
 
 ## Workshops
