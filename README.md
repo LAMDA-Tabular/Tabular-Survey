@@ -13,6 +13,21 @@ Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey
 
 [02/2023] The repository has been released.
 
+## Introduction
+
+Tabular data remains a cornerstone of machine learning applications across diverse fields, yet its structured format presents unique challenges and opportunities for model development. 
+This survey systematically examines the evolutionary trajectory of tabular data learning methods, spanning from conventional machine learning paradigms to contemporary deep learning architectures, along with the ongoing debate between tree-based and Deep Neural Network (DNN)-based models.
+We classify existing deep tabular methods into three categories according to their increasing generalization capabilities: specialized methods, transferable methods, and general methods.
+According to the components of row-column-label in raw tabular data, the survey introduces a taxonomy of specialized methods organized by feature, sample, and objective aspects, which includes models focused on feature representations, sample interactions, and learning objectives or regularization.
+Building upon this foundation, the survey investigates two transformative paradigms in tabular data. The transferable methods leverage the advantage of pre-trained models and adapt to downstream tasks with fine-tuning. In contrast, general models are capable of zero-shot generalization across heterogeneous datasets, allowing them to be directly applied to new tasks without fine-tuning.
+Finally, we explore ensemble methods and other extensions of tabular learning to complex tasks such as open-environment tabular machine learning, multimodal learning with tabular data, and tabular understanding. 
+We conclude by addressing open problems and directions for future research in the field, aiming to guide advancements in learning with tabular data.
+
+<div align="center">
+  <img src="resources/taxonomy_fig.png" width="90%">
+<img src="resources/roadmap.png" width="90%">
+</div>
+
 ## Some Basic Resources
 ### Benchmarks
 
@@ -31,7 +46,7 @@ Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey
 | 2023 | RTDL                                  | [Revisiting Deep Learning Models for Tabular Data](https://arxiv.org/abs/2106.11959) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/rtdl-revisiting-models) |
 | 2023 | WellTunedSimpleNets                   | [Well-tuned Simple Nets Excel on Tabular Datasets](https://arxiv.org/abs/2106.11189) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/machinelearningnuremberg/WellTunedSimpleNets) |
 
-### Awesome Toolboxs
+### Awesome Deep Tabular Toolboxs
 
 - [**RTDL**](https://github.com/yandex-research/rtdl): A collection of papers and packages on deep learning for tabular data.
 - [**TALENT**](https://github.com/qile2000/LAMDA-TALENT): A comprehensive toolkit and benchmark for tabular data learning, featuring 30 deep methods, more than 10 classical methods, and 300 diverse tabular datasets.
@@ -69,21 +84,6 @@ Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey
 
 
 
-
-## Introduction
-
-Tabular data remains a cornerstone of machine learning applications across diverse fields, yet its structured format presents unique challenges and opportunities for model development. 
-This survey systematically examines the evolutionary trajectory of tabular data learning methods, spanning from conventional machine learning paradigms to contemporary deep learning architectures, along with the ongoing debate between tree-based and Deep Neural Network (DNN)-based models.
-We classify existing deep tabular methods into three categories according to their increasing generalization capabilities: specialized methods, transferable methods, and general methods.
-According to the components of row-column-label in raw tabular data, the survey introduces a taxonomy of specialized methods organized by feature, sample, and objective aspects, which includes models focused on feature representations, sample interactions, and learning objectives or regularization.
-Building upon this foundation, the survey investigates two transformative paradigms in tabular data. The transferable methods leverage the advantage of pre-trained models and adapt to downstream tasks with fine-tuning. In contrast, general models are capable of zero-shot generalization across heterogeneous datasets, allowing them to be directly applied to new tasks without fine-tuning.
-Finally, we explore ensemble methods and other extensions of tabular learning to complex tasks such as open-environment tabular machine learning, multimodal learning with tabular data, and tabular understanding. 
-We conclude by addressing open problems and directions for future research in the field, aiming to guide advancements in learning with tabular data.
-
-<div align="center">
-  <img src="resources/taxonomy_fig.png" width="90%">
-<img src="resources/roadmap.png" width="90%">
-</div>
 
 
 ## Specialized Methods
