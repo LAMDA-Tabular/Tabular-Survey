@@ -26,6 +26,9 @@ We conclude by addressing open problems and directions for future research in th
 <div align="center">
   <img src="resources/taxo.png" width="90%">
 </div>
+<div align="center">
+  <img src="resources/Tabular_Deep_Learning.png" width="90%">
+</div>
 
 ## Some Basic Resources
 ### Benchmarks
