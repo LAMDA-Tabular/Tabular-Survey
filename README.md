@@ -198,7 +198,59 @@ We conclude by addressing open problems and directions for future research in th
 | 2023 | TabPTM        | [Training-free generalization on heterogeneous tabular data via meta-representation](https://arxiv.org/abs/2311.00055) | CoRR        |                                                              |
 | 2023 | TabPFN        | [Tabpfn: A transformer that solves small tabular classification problems in a second](https://openreview.net/forum?id=cp5PvcI6w8_) | ICLR        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/PriorLabs/TabPFN) |
 
-\* denotes that the method is a variation of TabPFN, which requires fine-tuning for downstream tasks.
+\* denotes that the method is a variation of TabPFN, some of which requires fine-tuning for downstream tasks.
+
+
+
+### Extensions
+
+> **Clustering**
+
+- [Interpretable Deep Clustering for Tabular Data](https://proceedings.mlr.press/v235/svirsky24a.html)
+- [Tabledc: Deep clustering for tabular data](https://arxiv.org/abs/2405.17723)
+- ...
+
+> **Anomaly Detection**
+
+- [Anomaly detection for tabular data with internal contrastive learning](https://openreview.net/forum?id=_hszZbt46bT)
+- [Adbench: Anomaly detection benchmark](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf93972b116ca5268827d575f2cc226b-Abstract-Datasets_and_Benchmarks.html)
+- [Anomaly detection of tabular data using llms](https://arxiv.org/abs/2406.16308)
+- ...
+
+> **Tabular Generation**
+
+- [Codi: Co-evolving contrastive diffusion models for mixed-type tabular synthesis](http://proceedings.mlr.press/v202/lee23i.html)
+- [Causality for tabular data synthesis: A high-order structure causal benchmark framework](https://arxiv.org/abs/2406.08311)
+- [Generating new concepts with hybrid neuro-symbolic models](https://arxiv.org/abs/2003.08978)
+- ...
+
+> **Interpretability**
+
+- [Tabnet: Attentive interpretable tabular learning](https://ojs.aaai.org/index.php/AAAI/article/view/16826)
+- [Tabtransformer: Tabular data modeling using contextual embeddings](https://arxiv.org/abs/2012.06678)
+- [Revisiting deep learning models for tabular data](https://proceedings.neurips.cc/paper_files/paper/2021/hash/9d86d83f925f2149e9edb0ac3b49229c-Abstract.html)
+- [Neural oblivious decision ensembles for deep learning on tabular data](https://openreview.net/forum?id=r1eiu2VtwH)
+- ...
+
+> **Open-Environment Tabular Machine Learning**
+
+- [TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling](https://arxiv.org/abs/2410.24210)	
+- [Driftresilient tabpfn: In-context learning temporal distribution shifts on tabular data](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b2e2774c8e76afe191b5bf518f5cb727-Abstract-Conference.html)
+- [Benchmarking Distribution Shift in Tabular Data with TableShift](https://arxiv.org/abs/2312.07577)
+- [TabReD: Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks](https://arxiv.org/abs/2406.19380)
+- [Understanding the limits of deep tabular methods with temporal shift](https://arxiv.org/abs/2502.20260)
+- ...
+
+> **Multi-modal Learning with Tabular Data**
+
+- [Best of both worlds: Multimodal contrastive learning with tabular and imaging data](http://openaccess.thecvf.com/content/CVPR2023/html/Hager_Best_of_Both_Worlds_Multimodal_Contrastive_Learning_With_Tabular_and_CVPR_2023_paper.html)
+- [Tabular insights, visual impacts: Transferring expertise from tables to images](https://proceedings.mlr.press/v235/jiang24h.html)
+- [Tip: Tabular-image pre-training for multimodal classification with incomplete data](Tip: Tabular-image pre-training for multimodal classification with incomplete data)
+- ...
+
+> **Tabular Understanding**
+
+- ...
 
 
 
