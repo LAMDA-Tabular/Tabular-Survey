@@ -293,13 +293,14 @@ Please refer to [Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tab
 
 ## Acknowledgment
 
-This repo is modified from [TALENT](https://github.com/qile2000/LAMDA-TALENT).
+This repo is modified from [TALENT](https://github.com/LAMDA-Tabular/TALENT).
 
 ## Correspondence
 
-This repo is developed and maintained by [Jun-Peng Jiang](https://www.lamda.nju.edu.cn/jiangjp/), [Siyang Liu](https://www.lamda.nju.edu.cn/liusy/), Hao-Run Cai, and [Han-Jia Ye](https://www.lamda.nju.edu.cn/yehj/). If you have any questions, please feel free to contact us by opening new issues or email:
+This repo is developed and maintained by [Jun-Peng Jiang](https://www.lamda.nju.edu.cn/jiangjp/), [Siyang Liu](https://www.lamda.nju.edu.cn/liusy/), Hao-Run Cai, [Qile Zhou](https://www.lamda.nju.edu.cn/zhouql/), and [Han-Jia Ye](https://www.lamda.nju.edu.cn/yehj/). If you have any questions, please feel free to contact us by opening new issues or email:
 
 - Jun-Peng Jiang: jiangjp@lamda.nju.edu.cn
 - Siyang Liu: liusy@lamda.nju.edu.cn
 - Hao-Run Cai: caihr@smail.nju.edu.cn
+- Qile Zhou: zhouql@lamda.nju.edu.cn
 - Han-Jia Ye: yehj@lamda.nju.edu.cn
