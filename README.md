@@ -15,16 +15,15 @@ Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey
 
 ## Introduction
 
-Tabular data remains a cornerstone of machine learning applications across diverse fields, yet its structured format presents unique challenges and opportunities for model development. 
-This survey systematically examines the evolutionary trajectory of tabular data learning methods, spanning from conventional machine learning paradigms to contemporary deep learning architectures, along with the ongoing debate between tree-based and Deep Neural Network (DNN)-based models.
-We classify existing deep tabular methods into three categories according to their increasing generalization capabilities: specialized methods, transferable methods, and general methods.
-According to the components of row-column-label in raw tabular data, the survey introduces a taxonomy of specialized methods organized by feature, sample, and objective aspects, which includes models focused on feature representations, sample interactions, and learning objectives or regularization.
-Building upon this foundation, the survey investigates two transformative paradigms in tabular data. The transferable methods leverage the advantage of pre-trained models and adapt to downstream tasks with fine-tuning. In contrast, general models are capable of zero-shot generalization across heterogeneous datasets, allowing them to be directly applied to new tasks without fine-tuning.
-Finally, we explore ensemble methods and other extensions of tabular learning to complex tasks such as open-environment tabular machine learning, multimodal learning with tabular data, and tabular understanding. 
-We conclude by addressing open problems and directions for future research in the field, aiming to guide advancements in learning with tabular data.
+Tabular data, structured as rows and columns, is among the most prevalent data types in machine learning classification and regression applications. Models for learning from tabular data have continuously evolved, with Deep Neural Networks (DNNs) recently demonstrating promising results through their capability of representation learning. 
+In this survey, we systematically introduce the field of tabular representation learning, covering the background, challenges, and benchmarks, along with the pros and cons of using DNNs.
+We organize existing methods into three main categories according to their generalization capabilities: specialized, transferable, and general models. Specialized models focus on tasks where training and evaluation occur within the same data distribution. We introduce a hierarchical taxonomy for specialized models based on the key aspects of tabular data—features, samples, and objectives—and delve into detailed strategies for obtaining high-quality feature- and sample-level representations.
+Transferable models are pre-trained on one or more datasets and subsequently fine-tuned on downstream tasks, leveraging knowledge acquired from homogeneous or heterogeneous sources, or even cross-modalities such as vision and language. 
+General models, also known as tabular foundation models, extend this concept further, allowing direct application to downstream tasks without additional fine-tuning. We group these general models based on the strategies used to adapt across heterogeneous datasets.
+Additionally, we explore ensemble methods, which integrate the strengths of multiple tabular models. Finally, we discuss representative extensions of tabular learning, including open-environment tabular machine learning, multimodal learning with tabular data, and tabular understanding tasks.
 
 <div align="center">
-  <img src="resources/taxo.png" width="90%">
+  <img src="resources/taxo.pdf" width="90%">
 </div>
 <div align="center">
   <img src="resources/Tabular_Deep_Learning.png" width="90%">
