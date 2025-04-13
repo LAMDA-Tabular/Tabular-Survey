@@ -23,7 +23,7 @@ General models, also known as tabular foundation models, extend this concept fur
 Additionally, we explore ensemble methods, which integrate the strengths of multiple tabular models. Finally, we discuss representative extensions of tabular learning, including open-environment tabular machine learning, multimodal learning with tabular data, and tabular understanding tasks.
 
 <div align="center">
-  <img src="resources/taxo.pdf" width="90%">
+  <img src="resources/taxo.png" width="90%">
 </div>
 <div align="center">
   <img src="resources/Tabular_Deep_Learning.png" width="90%">
