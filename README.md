@@ -1,17 +1,14 @@
 # Representation Learning for Tabular Data: A Comprehensive Survey
 
-Awesome Tabular Deep Learning for "[Representation Learning for Tabular Data: A Comprehensive Survey](http://arxiv.org/abs/2302.03648)". If you use any content of this repo for your work, please cite the following bib entry: 
-
-    @article{xxx
-     }
+Awesome Tabular Deep Learning for "[Representation Learning for Tabular Data: A Comprehensive Survey]"(coming soon). 
 
 Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey/issues/new) or [drop me an email](mailto:jiangjp@lamda.nju.edu.cn) if you find any interesting paper missing in our survey, and we shall include them in the next version.
 
 ## Updates
 
-[02/2023] [arXiv](xxxx) paper has been released.
+[04/2025] [arXiv] paper coming soon.
 
-[02/2023] The repository has been released.
+[02/2025] The repository has been released.
 
 ## Introduction
 
