@@ -6,7 +6,7 @@ Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey
 
 ## Updates
 
-[04/2025] [arXiv] paper coming soon.
+[04/2025] [arXiv] paper is coming soon.
 
 [02/2025] The repository has been released.
 
