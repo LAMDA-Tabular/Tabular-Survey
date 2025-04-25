@@ -5,7 +5,11 @@ Awesome Tabular Deep Learning for "[Representation Learning for Tabular Data: A 
 ```
 @article{jiang2025tabularsurvey,
          title={Representation Learning for Tabular Data: A Comprehensive Survey}, 
-         author={Jun-Peng Jiang and Si-Yang Liu and Hao-Run Cai and Qile Zhou and Han-Jia Ye},
+         author={Jun-Peng Jiang and
+                 Si-Yang Liu and
+                 Hao-Run Cai and
+                 Qile Zhou and
+                 Han-Jia Ye},
          journal={arXiv preprint arXiv:2504.16109},
          year={2025}
 }
@@ -17,15 +21,15 @@ Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey
 
 [04/2025] [arXiv](https://arxiv.org/abs/2504.16109) paper has been released.
 
-[02/2025] The repository has been released.
+[04/2025] The repository has been released.
 
 ## Introduction
 
 Tabular data, structured as rows and columns, is among the most prevalent data types in machine learning classification and regression applications. Models for learning from tabular data have continuously evolved, with Deep Neural Networks (DNNs) recently demonstrating promising results through their capability of representation learning. 
 In this survey, we systematically introduce the field of tabular representation learning, covering the background, challenges, and benchmarks, along with the pros and cons of using DNNs.
-We organize existing methods into three main categories according to their generalization capabilities: specialized, transferable, and general models. Specialized models focus on tasks where training and evaluation occur within the same data distribution. We introduce a hierarchical taxonomy for specialized models based on the key aspects of tabular data—features, samples, and objectives—and delve into detailed strategies for obtaining high-quality feature- and sample-level representations.
-Transferable models are pre-trained on one or more datasets and subsequently fine-tuned on downstream tasks, leveraging knowledge acquired from homogeneous or heterogeneous sources, or even cross-modalities such as vision and language. 
-General models, also known as tabular foundation models, extend this concept further, allowing direct application to downstream tasks without additional fine-tuning. We group these general models based on the strategies used to adapt across heterogeneous datasets.
+We organize existing methods into three main categories according to their generalization capabilities: **specialized, transferable, and general models**. **Specialized models** focus on tasks where training and evaluation occur within the same data distribution. We introduce a hierarchical taxonomy for specialized models based on the key aspects of tabular data—features, samples, and objectives—and delve into detailed strategies for obtaining high-quality feature- and sample-level representations.
+**Transferable models** are pre-trained on one or more datasets and subsequently fine-tuned on downstream tasks, leveraging knowledge acquired from homogeneous or heterogeneous sources, or even cross-modalities such as vision and language. 
+**General models**, also known as tabular foundation models, extend this concept further, allowing direct application to downstream tasks without additional fine-tuning. We group these general models based on the strategies used to adapt across heterogeneous datasets.
 Additionally, we explore ensemble methods, which integrate the strengths of multiple tabular models. Finally, we discuss representative extensions of tabular learning, including open-environment tabular machine learning, multimodal learning with tabular data, and tabular understanding tasks.
 
 <div align="center">
@@ -40,16 +44,16 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date | Name                                  | Paper                                                        | Publication | Code                                                         |
 | ---- | ------------------------------------- | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
-| 2025 | MLEBench                                | [MLE-Bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095) | ICLR        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/openai/mle-bench) |
-| 2025 | TabRed                                | [TabReD: Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks](https://arxiv.org/abs/2406.19380) | ICLR        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabred) |
+| 2025 | MLE-Bench                             | [MLE-Bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095) | ICLR        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/openai/mle-bench) |
+| 2025 | TabReD                                | [TabReD: Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks](https://arxiv.org/abs/2406.19380) | ICLR        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabred) |
 | 2024 | Data-Centric Benchmark                | [A Data-Centric Perspective on Evaluating Machine Learning Models for Tabular Data](https://arxiv.org/abs/2407.02112) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/atschalz/dc_tabeval) |
-| 2024 | Better_by_Default                     | [Better by Default: Strong Pre-Tuned MLPs and Boosted Trees on Tabular Data](https://arxiv.org/abs/2407.04491) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dholzmueller/pytabkit) |
+| 2024 | Better-by-Default                     | [Better by Default: Strong Pre-Tuned MLPs and Boosted Trees on Tabular Data](https://arxiv.org/abs/2407.04491) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dholzmueller/pytabkit) |
 | 2024 | LAMDA-Tabular-Bench                   | [A Closer Look at Deep Learning Methods on Tabular Datasets](https://arxiv.org/abs/2407.00956) | CoRR        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/qile2000/LAMDA-TALENT) |
-| 2024 | DMLR-ICLR24-datasets-for-benchmarking | [Towards Quantifying the Effect of Datasets for Benchmarking: A Look at Tabular Machine Learning](https://ml.informatik.uni-freiburg.de/wp-content/uploads/2024/04/61_towards_quantifying_the_effect.pdf) | DMLR        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/automl/dmlr-iclr24-datasets-for-benchmarking) |
+| 2024 | DMLR-ICLR24-Datasets-for-Benchmarking | [Towards Quantifying the Effect of Datasets for Benchmarking: A Look at Tabular Machine Learning](https://ml.informatik.uni-freiburg.de/wp-content/uploads/2024/04/61_towards_quantifying_the_effect.pdf) | DMLR        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/automl/dmlr-iclr24-datasets-for-benchmarking) |
 | 2023 | TableShift                            | [Benchmarking Distribution Shift in Tabular Data with TableShift](https://arxiv.org/abs/2312.07577) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/mlfoundations/tableshift) |
 | 2023 | TabZilla                              | [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/abs/2305.02997) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/naszilla/tabzilla) |
 |   2023  |EncoderBenchmarking |[A benchmark of categorical encoders for binary classification](https://arxiv.org/abs/2307.09191)|NeurIPS| [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/DrCohomology/EncoderBenchmarking)|
-| 2022 | Grinsztajn et al. benchmark           | [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/LeoGrin/tabular-benchmark) |
+| 2022 | Grinsztajn et al. Benchmark           | [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/LeoGrin/tabular-benchmark) |
 | 2021 | RTDL                                  | [Revisiting Deep Learning Models for Tabular Data](https://arxiv.org/abs/2106.11959) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/rtdl-revisiting-models) |
 | 2021 | WellTunedSimpleNets                   | [Well-tuned Simple Nets Excel on Tabular Datasets](https://arxiv.org/abs/2106.11189) | NeurIPS     | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/machinelearningnuremberg/WellTunedSimpleNets) |
 
@@ -60,6 +64,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 - [**pytorch_tabular**](https://github.com/manujosephv/pytorch_tabular): A standard framework for modelling Deep Learning Models for tabular data.
 - [**pytorch-frame**](https://github.com/pyg-team/pytorch-frame): A modular deep learning framework for building neural network models on heterogeneous tabular data.
 - [**DeepTables**](https://github.com/DataCanvasIO/DeepTables): An easy-to-use toolkit that enables deep learning to unleash great power on tabular data.
+- [**AutoGluon**](https://github.com/autogluon/autogluon): A toolbox which automates machine learning tasks and enables to easily achieve strong predictive performance.
 - ...
 
 ### Other Awesome Repositories
