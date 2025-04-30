@@ -301,6 +301,7 @@ Please refer to [Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tab
 - [LLM + Vector Data @ ICDE 2025](https://llmvdb.github.io/)
 - [Data-AI Systems (DAIS) @ ICDE 2025](https://dais-workshop-icde.github.io/)
 - [Frontiers of DE & AI @ ICDE 2025](https://fdea-workshop.github.io/)
+- [Foundation Models for Structured Data @ ICML 2025](https://icml-structured-fm-workshop.github.io/)
 
 
 
