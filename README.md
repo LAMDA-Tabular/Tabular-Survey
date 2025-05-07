@@ -120,6 +120,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 | 2022 |     DANets     | [Danets: Deep abstract networks for tabular data classification and regression](https://ojs.aaai.org/index.php/AAAI/article/view/20309) |        AAAI         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/WhatAShot/DANet) |
 | 2022 |      DNNR      | [DNNR: differential nearest neighbors regression](https://proceedings.mlr.press/v162/nader22a.html) |        ICML         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/younader/DNNR) |
 | 2022 |    Hopular     | [Hopular: Modern hopfield networks for tabular data](https://arxiv.org/abs/2206.00664) |        CoRR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/ml-jku/hopular) |
+| 2022 |    LSPIN     | [Locally Sparse Neural Networks for Tabular Biomedical Data](https://proceedings.mlr.press/v162/yang22i.html) |        ICML         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/jcyang34/lspin) |
 | 2021 | Net-DNF | [Net-DNF: Effective Deep Modeling of Tabular Data](https://openreview.net/pdf?id=73WTGs96kho) |       ICLR      |  |
 | 2021 | FT-Transformer | [Revisiting deep learning models for tabular data](https://proceedings.neurips.cc/paper_files/paper/2021/hash/9d86d83f925f2149e9edb0ac3b49229c-Abstract.html) |       NeurIPS       | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/rtdl) |
 | 2021 |     TabNet     | [Tabnet: Attentive interpretable tabular learning](https://ojs.aaai.org/index.php/AAAI/article/view/16826) |        AAAI         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dreamquark-ai/tabnet) |
@@ -130,6 +131,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 | 2020 | TabTransformer | [Tabtransformer: Tabular data modeling using contextual embeddings](https://arxiv.org/abs/2012.06678) |        CoRR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/lucidrains/tab-transformer-pytorch) |
 | 2020 |    GrowNet     | [Gradient boosting neural networks: Grownet](https://arxiv.org/abs/2002.07971) |        CoRR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/sbadirli/GrowNet) |
 | 2020 |      NODE      | [Neural oblivious decision ensembles for deep learning on tabular data](https://openreview.net/forum?id=r1eiu2VtwH) |        ICLR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Qwicen/node) |
+| 2020 |      STG       | [Feature Selection using Stochastic Gates](https://proceedings.mlr.press/v119/yamada20a.html) |        ICML         | [![Static Badge](https://github.com/runopti/stg) |
 | 2019 |    AutoInt     | [Autoint: Automatic feature interaction learning via self-attentive neural networks](https://dl.acm.org/doi/abs/10.1145/3357384.3357925) |        CIKM         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/DeepGraphLearning/RecommenderSystems) |
 | 2018 |      RLNs      | [Regularization learning networks: deep learning for tabular datasets](https://proceedings.neurips.cc/paper_files/paper/2018/hash/500e75a036dc2d7d2fec5da1b71d36cc-Abstract.html) |       NeurIPS       | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/irashavitt/regularization_learning_networks) |
 | 2017 |      SNN       | [Selfnormalizing neural networks](https://proceedings.neurips.cc/paper_files/paper/2017/hash/5d44ee6f2c3f71b73125876103c8f6c4-Abstract.html) |        NIPS         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/bioinf-jku/SNNs) |
@@ -244,6 +246,8 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 - [Anomaly detection for tabular data with internal contrastive learning](https://openreview.net/forum?id=_hszZbt46bT)
 - [Adbench: Anomaly detection benchmark](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf93972b116ca5268827d575f2cc226b-Abstract-Datasets_and_Benchmarks.html)
 - [Anomaly detection of tabular data using llms](https://arxiv.org/abs/2406.16308)
+- [Anomaly Detection with Variance Stabilized Density Estimation](https://arxiv.org/abs/2306.00582)
+- [Transductive and Inductive Outlier Detection with Robust Autoencoders](https://openreview.net/forum?id=UkA5dZs5mP)
 - ...
 
 > **Tabular Generation**
