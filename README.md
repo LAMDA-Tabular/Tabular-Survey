@@ -289,6 +289,8 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 - [Monkey: Image resolution and text label are important things for large multi-modal models](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Monkey_Image_Resolution_and_Text_Label_Are_Important_Things_for_CVPR_2024_paper.pdf)
 - [mPLUG-DocOwl: Modularized multimodal large language model for document understanding](https://arxiv.org/pdf/2307.02499)
 - [Tabpedia: Towards comprehensive visual table understanding with concept synergy](https://proceedings.neurips.cc/paper_files/paper/2024/file/0d97fe65d7a1dc12a05642d9fa4cd578-Paper-Conference.pdf)
+- [Compositional Condition Question Answering in Tabular Understanding](https://openreview.net/pdf?id=aXU48nrA2v)
+- [Multimodal Tabular Reasoning with Privileged Structured Information](https://arxiv.org/abs/2506.04088)
 - ...
 
 Please refer to [Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tabular-LLMs) for more information.
