@@ -292,6 +292,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 - [Tabpedia: Towards comprehensive visual table understanding with concept synergy](https://proceedings.neurips.cc/paper_files/paper/2024/file/0d97fe65d7a1dc12a05642d9fa4cd578-Paper-Conference.pdf)
 - [Compositional Condition Question Answering in Tabular Understanding](https://openreview.net/pdf?id=aXU48nrA2v)
 - [Multimodal Tabular Reasoning with Privileged Structured Information](https://arxiv.org/abs/2506.04088)
+- [REFOCUS: Visual Editing as a Chain of Thought for Structured Image Understanding](https://arxiv.org/abs/2501.05452)
 - ...
 
 Please refer to [Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tabular-LLMs) for more information.
