@@ -101,6 +101,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date |      Name      |                            Paper                             |     Publication     |                             Code                             |
 | -- | ------------ | ---------------------------------------------------------- | ----------------- | ---------------------------------------------------------- |
+| 2025 |   TabAutoPNPNet    | [Leveraging Periodicity for Tabular Deep Learning](https://www.mdpi.com/2079-9292/14/6/1165) |        Electronics         | [![Static Badge](https://github.com/matteo-rizzo/periodic-tabular-dl) |
 | 2025 |   ModernNCA    | [Revisiting Nearest Neighbor for Tabular Data: A Deep Tabular Baseline Two Decades Later](https://openreview.net/forum?id=JytL2MrlLT) |        ICLR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/qile2000/LAMDA-TALENT) |
 | 2025 |   TabM    | [TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling](https://arxiv.org/abs/2410.24210) |        ICLR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabm) |
 | 2024 |  ExcelFormer   | [Can a deep learning model be a sure bet for tabular prediction?](https://dl.acm.org/doi/abs/10.1145/3637528.3671893) |         KDD         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/whatashot/excelformer) |
