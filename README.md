@@ -274,6 +274,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 - [Benchmarking Distribution Shift in Tabular Data with TableShift](https://arxiv.org/abs/2312.07577)
 - [TabReD: Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks](https://arxiv.org/abs/2406.19380)
 - [Understanding the limits of deep tabular methods with temporal shift](https://arxiv.org/abs/2502.20260)
+- [Feature-aware Modulation for Learning from Temporal Tabular Data](https://openreview.net/forum?id=88MXvVn5dl)
 - ...
 
 > **Multi-modal Learning with Tabular Data**
@@ -292,7 +293,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 - [mPLUG-DocOwl: Modularized multimodal large language model for document understanding](https://arxiv.org/pdf/2307.02499)
 - [Tabpedia: Towards comprehensive visual table understanding with concept synergy](https://proceedings.neurips.cc/paper_files/paper/2024/file/0d97fe65d7a1dc12a05642d9fa4cd578-Paper-Conference.pdf)
 - [Compositional Condition Question Answering in Tabular Understanding](https://openreview.net/pdf?id=aXU48nrA2v)
-- [Multimodal Tabular Reasoning with Privileged Structured Information](https://arxiv.org/abs/2506.04088)
+- [Multimodal Tabular Reasoning with Privileged Structured Information](https://openreview.net/forum?id=AuBSUgFVgq)
 - [REFOCUS: Visual Editing as a Chain of Thought for Structured Image Understanding](https://arxiv.org/abs/2501.05452)
 - ...
 
