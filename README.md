@@ -192,6 +192,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date | Name          | Paper                                                        | Publication | Code                                                         |
 | ---: | :------------ | :----------------------------------------------------------- | :---------- | :----------------------------------------------------------- |
+| 2025 | LimiX         | [LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence](https://arxiv.org/abs/2509.03505) | CoRR        |                                                              |
 | 2025 | Beta*         | [Tabpfn unleashed: A scalable and effective solution to tabular classification problems](https://arxiv.org/abs/2502.02527) | ICML        |                                                              |
 | 2025 | MotherNet     | [MotherNet: Fast Training and Inference via Hyper-Network Transformers](https://openreview.net/forum?id=6H4jRWKFc3&noteId=qln8G23j4b) | ICLR        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/microsoft/ticl?tab=readme-ov-file#MotherNet) |
 | 2025 | TabPFN v2     | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | Nature      | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/PriorLabs/TabPFN) |
