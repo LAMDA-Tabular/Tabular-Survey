@@ -19,6 +19,8 @@ Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey
 
 ## Updates
 
+[01/2026] Accepted to TPAMI. Coming soon.
+
 [04/2025] [arXiv](https://arxiv.org/abs/2504.16109) paper has been released.
 
 [04/2025] The repository has been released.
