@@ -318,6 +318,7 @@ Please refer to [Awesome-Tabular-LLMs](https://github.com/SpursGoZmy/Awesome-Tab
 - [Data-AI Systems (DAIS) @ ICDE 2025](https://dais-workshop-icde.github.io/)
 - [Frontiers of DE & AI @ ICDE 2025](https://fdea-workshop.github.io/)
 - [Foundation Models for Structured Data @ ICML 2025](https://icml-structured-fm-workshop.github.io/)
+- [Deep Representation Learning for Tabular Data @ AAAI 2026](https://lamda-tabular.github.io/)
 
 
 
