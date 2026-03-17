@@ -196,6 +196,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date | Name          | Paper                                                        | Publication | Code                                                         |
 | ---: | :------------ | :----------------------------------------------------------- | :---------- | :----------------------------------------------------------- |
+| 2025 | TabSTAR*         | [TabSTAR: A Tabular Foundation Model for Tabular Data with Text Fields](https://openreview.net/forum?id=FrXHdcTEzE) | NeurIPS        |   [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/alanarazi7/TabSTAR)                           |
 | 2025 | Mitra*         | [Mitra: Mixed Synthetic Priors for Enhancing Tabular Foundation Models](https://arxiv.org/abs/2510.21204) | NeurIPS        |   [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://huggingface.co/autogluon/mitra-classifier)                           |
 | 2025 | TabDPT*       | [Tabdpt: Scaling tabular foundation models](https://arxiv.org/pdf/2410.18164?) | NeurIPS        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/layer6ai-labs/TabDPT-training) |
 | 2025 | EquiTabPFN*   | [Equitabpfn: A targetpermutation equivariant prior fitted networks](https://arxiv.org/abs/2502.06684) | NeurIPS        |     [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/geoalgo/equitabpfn)               |
