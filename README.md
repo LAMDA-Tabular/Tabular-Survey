@@ -46,6 +46,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date | Name                                  | Paper                                                        | Publication | Code                                                         |
 | ---- | ------------------------------------- | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| 2026 | Tabular DL Optimizer Benchmark | [Benchmarking Optimizers for MLPs in Tabular Deep Learning](https://arxiv.org/abs/2604.15297) | CoRR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabular-dl-optimizers) |
 | 2025 | TabArena                              | [TabArena: A Living Benchmark for Machine Learning on Tabular Data](https://arxiv.org/abs/2506.16791) | NeurIPS        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://tabarena.ai) |
 | 2025 | MLE-Bench                             | [MLE-Bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095) | ICLR        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/openai/mle-bench) |
 | 2025 | TabReD                                | [TabReD: Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks](https://arxiv.org/abs/2406.19380) | ICLR        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabred) |
@@ -148,6 +149,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date | Name             | Paper                                                        | Publication        | Code                                                         |
 | ---: | :--------------- | :----------------------------------------------------------- | :----------------- | :----------------------------------------------------------- |
+| 2026 |  | [Schema-Adaptive Tabular Representation Learning with LLMs for Generalizable Multimodal Clinical Reasoning](https://arxiv.org/abs/2604.11835) | CoRR | |
 | 2025 |                  | [A survey on self-supervised learning for non-sequential tabular data](https://link.springer.com/article/10.1007/s10994-024-06674-0) | Machine Learning   | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/wwweiwei/awesome-self-supervised-learning-for-tabular-data) |
 | 2025 | Tab2Visual       | [Tab2Visual: Overcoming Limited Data in Tabular Data Classification Using Deep Learning with Visual Representations](https://arxiv.org/abs/2502.07181) | CoRR               |                                                              |
 | 2024 | LFR              | [Self-supervised representation learning from random data projectors](https://openreview.net/forum?id=EpYnZpDpsQ) | ICLR               |                                                              |
@@ -261,6 +263,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Tabular Generation**
 
+- [Synthetic Tabular Generators Fail to Preserve Behavioral Fraud Patterns: A Benchmark on Temporal, Velocity, and Multi-Account Signals](https://arxiv.org/abs/2604.13125)
 - [Codi: Co-evolving contrastive diffusion models for mixed-type tabular synthesis](http://proceedings.mlr.press/v202/lee23i.html)
 - [Causality for tabular data synthesis: A high-order structure causal benchmark framework](https://arxiv.org/abs/2406.08311)
 - [Generating new concepts with hybrid neuro-symbolic models](https://arxiv.org/abs/2003.08978)
@@ -293,6 +296,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Tabular Understanding**
 
+- [INDOTABVQA: A Benchmark for Cross-Lingual Table Understanding in Bahasa Indonesia Documents](https://arxiv.org/abs/2604.11970)
 - [Tablebank: Table benchmark for image-based table detection and recognition](https://arxiv.org/abs/1903.01949)
 - [Multimodalqa: Complex question answering over text, tables and images](https://arxiv.org/abs/2104.06039)
 - [Donut: Document understanding transformer without ocr](https://arxiv.org/abs/2111.15664)
