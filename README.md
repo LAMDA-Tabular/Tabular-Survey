@@ -46,6 +46,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date | Name                                  | Paper                                                        | Publication | Code                                                         |
 | ---- | ------------------------------------- | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| 2026 | TEmBed | [Towards Universal Tabular Embeddings: A Benchmark Across Data Tasks](https://arxiv.org/abs/2604.21696) | CoRR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/IBM/table-representation-evals) |
 | 2026 | Tabular DL Optimizer Benchmark | [Benchmarking Optimizers for MLPs in Tabular Deep Learning](https://arxiv.org/abs/2604.15297) | CoRR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabular-dl-optimizers) |
 | 2025 | TabArena                              | [TabArena: A Living Benchmark for Machine Learning on Tabular Data](https://arxiv.org/abs/2506.16791) | NeurIPS        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://tabarena.ai) |
 | 2025 | MLE-Bench                             | [MLE-Bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095) | ICLR        | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/openai/mle-bench) |
@@ -254,6 +255,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Anomaly Detection**
 
+- [uLEAD-TabPFN: Uncertainty-aware Dependency-based Anomaly Detection with TabPFN](https://arxiv.org/abs/2604.20255)
 - [Anomaly detection for tabular data with internal contrastive learning](https://openreview.net/forum?id=_hszZbt46bT)
 - [Adbench: Anomaly detection benchmark](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf93972b116ca5268827d575f2cc226b-Abstract-Datasets_and_Benchmarks.html)
 - [Anomaly detection of tabular data using llms](https://arxiv.org/abs/2406.16308)
@@ -263,6 +265,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Tabular Generation**
 
+- [TabSCM: A Practical Framework for Generating Realistic Tabular Data](https://arxiv.org/abs/2604.22337)
 - [Synthetic Tabular Generators Fail to Preserve Behavioral Fraud Patterns: A Benchmark on Temporal, Velocity, and Multi-Account Signals](https://arxiv.org/abs/2604.13125)
 - [Codi: Co-evolving contrastive diffusion models for mixed-type tabular synthesis](http://proceedings.mlr.press/v202/lee23i.html)
 - [Causality for tabular data synthesis: A high-order structure causal benchmark framework](https://arxiv.org/abs/2406.08311)
