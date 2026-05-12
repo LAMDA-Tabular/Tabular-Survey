@@ -296,6 +296,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Tabular Understanding**
 
+- [V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization](https://arxiv.org/abs/2604.20755)
 - [INDOTABVQA: A Benchmark for Cross-Lingual Table Understanding in Bahasa Indonesia Documents](https://arxiv.org/abs/2604.11970)
 - [Tablebank: Table benchmark for image-based table detection and recognition](https://arxiv.org/abs/1903.01949)
 - [Multimodalqa: Complex question answering over text, tables and images](https://arxiv.org/abs/2104.06039)
