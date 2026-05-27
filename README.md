@@ -46,6 +46,8 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date | Name                                  | Paper                                                        | Publication | Code                                                         |
 | ---- | ------------------------------------- | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| 2026 | TABLET | [TABLET: A Large-Scale Dataset for Robust Visual Table Understanding](https://openreview.net/forum?id=5UbeQDlYDj) | ICLR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/alonsoapp/TABLET) |
+| 2026 | TabStruct | [TabStruct: Measuring Structural Fidelity of Tabular Data](https://openreview.net/forum?id=XOPH34Extq) | ICLR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SilenceX12138/TabStruct) |
 | 2026 | TopBench | [TopBench: A Benchmark for Implicit Prediction and Reasoning over Tabular Question Answering](https://arxiv.org/abs/2604.28076) | ICML | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/LAMDA-Tabular/TopBench) |
 | 2026 | TEmBed | [Towards Universal Tabular Embeddings: A Benchmark Across Data Tasks](https://arxiv.org/abs/2604.21696) | CoRR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/IBM/table-representation-evals) |
 | 2026 | Tabular DL Optimizer Benchmark | [Benchmarking Optimizers for MLPs in Tabular Deep Learning](https://arxiv.org/abs/2604.15297) | CoRR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabular-dl-optimizers) |
@@ -200,6 +202,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date | Name          | Paper                                                        | Publication | Code                                                         |
 | ---: | :------------ | :----------------------------------------------------------- | :---------- | :----------------------------------------------------------- |
+| 2026 | CausalFM | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://openreview.net/forum?id=d2L1ndOKjq) | ICLR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yccm/CausalFM) |
 | 2025 | TabSTAR*         | [TabSTAR: A Tabular Foundation Model for Tabular Data with Text Fields](https://openreview.net/forum?id=FrXHdcTEzE) | NeurIPS        |   [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/alanarazi7/TabSTAR)                           |
 | 2025 | Mitra*         | [Mitra: Mixed Synthetic Priors for Enhancing Tabular Foundation Models](https://arxiv.org/abs/2510.21204) | NeurIPS        |   [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://huggingface.co/autogluon/mitra-classifier)                           |
 | 2025 | TabDPT*       | [Tabdpt: Scaling tabular foundation models](https://arxiv.org/pdf/2410.18164?) | NeurIPS        | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/layer6ai-labs/TabDPT-training) |
@@ -256,6 +259,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Anomaly Detection**
 
+- [ReTabAD: A Benchmark for Restoring Semantic Context in Tabular Anomaly Detection](https://openreview.net/forum?id=UFwgg44VZq)
 - [uLEAD-TabPFN: Uncertainty-aware Dependency-based Anomaly Detection with TabPFN](https://arxiv.org/abs/2604.20255)
 - [Anomaly detection for tabular data with internal contrastive learning](https://openreview.net/forum?id=_hszZbt46bT)
 - [Adbench: Anomaly detection benchmark](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf93972b116ca5268827d575f2cc226b-Abstract-Datasets_and_Benchmarks.html)
@@ -266,6 +270,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Tabular Generation**
 
+- [Using maximal information auxiliary variables to improve synthetic data generation based on TabPFN foundation models](https://openreview.net/forum?id=6PkiUAcTWF)
 - [TabSCM: A Practical Framework for Generating Realistic Tabular Data](https://arxiv.org/abs/2604.22337)
 - [Synthetic Tabular Generators Fail to Preserve Behavioral Fraud Patterns: A Benchmark on Temporal, Velocity, and Multi-Account Signals](https://arxiv.org/abs/2604.13125)
 - [Codi: Co-evolving contrastive diffusion models for mixed-type tabular synthesis](http://proceedings.mlr.press/v202/lee23i.html)
@@ -300,6 +305,9 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Tabular Understanding**
 
+- [TableMaster: A Recipe to Advance Table Understanding with Language Models](https://openreview.net/forum?id=YyPZPrPjQD)
+- [TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding](https://openreview.net/forum?id=4aZTiLH3fm) [[Code](https://github.com/xiaobo-xing/TableDART)]
+- [Same Content, Different Representations: A Controlled Study for Table QA](https://openreview.net/forum?id=QTgx2ThiAb)
 - [V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization](https://arxiv.org/abs/2604.20755)
 - [INDOTABVQA: A Benchmark for Cross-Lingual Table Understanding in Bahasa Indonesia Documents](https://arxiv.org/abs/2604.11970)
 - [Tablebank: Table benchmark for image-based table detection and recognition](https://arxiv.org/abs/1903.01949)
