@@ -3,6 +3,21 @@
 Awesome Tabular Deep Learning for "[Representation Learning for Tabular Data: A Comprehensive Survey](https://arxiv.org/abs/2504.16109)". If you use any content of this repo for your work, please cite the following bib entry: 
 
 ```
+@article{jiang2026tabularsurvey,
+         journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+         title={Representation Learning for Tabular Data: A Comprehensive Survey},
+         author={Jun-Peng Jiang and
+                 Si-Yang Liu and
+                 Hao-Run Cai and
+                 Qi-Le Zhou and
+                 Han-Jia Ye},
+         year={2026},
+         volume={48},
+         number={6},
+         pages={6488-6508}
+}
+
+
 @article{jiang2025tabularsurvey,
          title={Representation Learning for Tabular Data: A Comprehensive Survey}, 
          author={Jun-Peng Jiang and
@@ -19,7 +34,7 @@ Feel free to [create new issues](https://github.com/LAMDA-Tabular/Tabular-Survey
 
 ## Updates
 
-[01/2026] Accepted to TPAMI. Coming soon.
+[01/2026] Accepted to [TPAMI](https://ieeexplore.ieee.org/document/11369258).
 
 [04/2025] [arXiv](https://arxiv.org/abs/2504.16109) paper has been released.
 
