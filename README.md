@@ -285,6 +285,8 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Tabular Generation**
 
+- [AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking](https://arxiv.org/abs/2606.03347) 
+- [GATD: Geometry-Aware Tabular Diffusion](https://arxiv.org/abs/2606.02607)
 - [Using maximal information auxiliary variables to improve synthetic data generation based on TabPFN foundation models](https://openreview.net/forum?id=6PkiUAcTWF)
 - [TabSCM: A Practical Framework for Generating Realistic Tabular Data](https://arxiv.org/abs/2604.22337)
 - [Synthetic Tabular Generators Fail to Preserve Behavioral Fraud Patterns: A Benchmark on Temporal, Velocity, and Multi-Account Signals](https://arxiv.org/abs/2604.13125)
