@@ -61,7 +61,9 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date | Name                                  | Paper                                                        | Publication | Code                                                         |
 | ---- | ------------------------------------- | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| 2026 | TaR-ViR | [Beyond Text-Only: Towards Multimodal Table Retrieval in Open-World](https://openreview.net/forum?id=4QPgqdQmYn) | ICLR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/Trustworthy-Information-Access/Tab-ViR) |
 | 2026 | TABLET | [TABLET: A Large-Scale Dataset for Robust Visual Table Understanding](https://openreview.net/forum?id=5UbeQDlYDj) | ICLR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/alonsoapp/TABLET) |
+| 2026 | SPARTA | [SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables](https://openreview.net/forum?id=8KE9qvKhM4) | ICLR | |
 | 2026 | TabStruct | [TabStruct: Measuring Structural Fidelity of Tabular Data](https://openreview.net/forum?id=XOPH34Extq) | ICLR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/SilenceX12138/TabStruct) |
 | 2026 | TopBench | [TopBench: A Benchmark for Implicit Prediction and Reasoning over Tabular Question Answering](https://arxiv.org/abs/2604.28076) | ICML | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/LAMDA-Tabular/TopBench) |
 | 2026 | TEmBed | [Towards Universal Tabular Embeddings: A Benchmark Across Data Tasks](https://arxiv.org/abs/2604.21696) | CoRR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/IBM/table-representation-evals) |
@@ -217,6 +219,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date | Name          | Paper                                                        | Publication | Code                                                         |
 | ---: | :------------ | :----------------------------------------------------------- | :---------- | :----------------------------------------------------------- |
+| 2026 | Relatron | [Relatron: Automating Relational Machine Learning over Relational Databases](https://openreview.net/forum?id=59avbH4HnU) | ICLR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amazon-science/Automating-Relational-Machine-Learning) |
 | 2026 | CausalFM | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://openreview.net/forum?id=d2L1ndOKjq) | ICLR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yccm/CausalFM) |
 | 2025 | TabSTAR*         | [TabSTAR: A Tabular Foundation Model for Tabular Data with Text Fields](https://openreview.net/forum?id=FrXHdcTEzE) | NeurIPS        |   [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/alanarazi7/TabSTAR)                           |
 | 2025 | Mitra*         | [Mitra: Mixed Synthetic Priors for Enhancing Tabular Foundation Models](https://arxiv.org/abs/2510.21204) | NeurIPS        |   [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://huggingface.co/autogluon/mitra-classifier)                           |
@@ -305,6 +308,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Open-Environment Tabular Machine Learning**
 
+- [Prior-free Tabular Test-time Adaptation](https://openreview.net/forum?id=BgSDPE24pa) [[Code](https://github.com/rundohe/PFT3A)]
 - [TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling](https://arxiv.org/abs/2410.24210)	
 - [Driftresilient tabpfn: In-context learning temporal distribution shifts on tabular data](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b2e2774c8e76afe191b5bf518f5cb727-Abstract-Conference.html)
 - [Benchmarking Distribution Shift in Tabular Data with TableShift](https://arxiv.org/abs/2312.07577)
@@ -322,6 +326,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Tabular Understanding**
 
+- [TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular Reasoning](https://openreview.net/forum?id=zc1ezBrr5m)
 - [TableMaster: A Recipe to Advance Table Understanding with Language Models](https://openreview.net/forum?id=YyPZPrPjQD)
 - [TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding](https://openreview.net/forum?id=4aZTiLH3fm) [[Code](https://github.com/xiaobo-xing/TableDART)]
 - [Same Content, Different Representations: A Controlled Study for Table QA](https://openreview.net/forum?id=QTgx2ThiAb)
