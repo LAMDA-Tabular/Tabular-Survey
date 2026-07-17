@@ -125,6 +125,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date |      Name      |                            Paper                             |     Publication     |                             Code                             |
 | -- | ------------ | ---------------------------------------------------------- | ----------------- | ---------------------------------------------------------- |
+| 2026 | TabPack | [TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning](https://arxiv.org/abs/2607.05380) | ICML | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabpack) |
 | 2025 |   xRFM    | [xRFM: Accurate, scalable, and interpretable feature learning models for tabular data](https://arxiv.org/abs/2508.10053) |        CoRR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dmbeaglehole/xRFM) |
 | 2025 |   RFM    | [Mechanism for feature learning in neural networks and backpropagation-free machine learning models](https://www.science.org/doi/10.1126/science.adi5639) |        Science         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/aradha/recursive_feature_machines/tree/pip_install) |
 | 2025 |   TabAutoPNPNet    | [Leveraging Periodicity for Tabular Deep Learning](https://www.mdpi.com/2079-9292/14/6/1165) |        Electronics         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/matteo-rizzo/periodic-tabular-dl) |
@@ -170,6 +171,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date | Name             | Paper                                                        | Publication        | Code                                                         |
 | ---: | :--------------- | :----------------------------------------------------------- | :----------------- | :----------------------------------------------------------- |
+| 2026 | TL-ANDI | [Context-Constrained Transfer Learning for Tabular Foundation Models via Data Distillation](https://arxiv.org/abs/2607.04809) | CoRR | |
 | 2026 |  | [Schema-Adaptive Tabular Representation Learning with LLMs for Generalizable Multimodal Clinical Reasoning](https://arxiv.org/abs/2604.11835) | CoRR | |
 | 2025 |                  | [A survey on self-supervised learning for non-sequential tabular data](https://link.springer.com/article/10.1007/s10994-024-06674-0) | Machine Learning   | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/wwweiwei/awesome-self-supervised-learning-for-tabular-data) |
 | 2025 | Tab2Visual       | [Tab2Visual: Overcoming Limited Data in Tabular Data Classification Using Deep Learning with Visual Representations](https://arxiv.org/abs/2502.07181) | CoRR               |                                                              |
