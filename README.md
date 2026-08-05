@@ -171,6 +171,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date | Name             | Paper                                                        | Publication        | Code                                                         |
 | ---: | :--------------- | :----------------------------------------------------------- | :----------------- | :----------------------------------------------------------- |
+| 2026 | TabularBERT | [TabularBERT: Binning-Based Self-Supervised Learning for Tabular Representation](https://icml.cc/virtual/2026/poster/63601) | ICML | |
 | 2026 | TL-ANDI | [Context-Constrained Transfer Learning for Tabular Foundation Models via Data Distillation](https://arxiv.org/abs/2607.04809) | CoRR | |
 | 2026 |  | [Schema-Adaptive Tabular Representation Learning with LLMs for Generalizable Multimodal Clinical Reasoning](https://arxiv.org/abs/2604.11835) | CoRR | |
 | 2025 |                  | [A survey on self-supervised learning for non-sequential tabular data](https://link.springer.com/article/10.1007/s10994-024-06674-0) | Machine Learning   | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/wwweiwei/awesome-self-supervised-learning-for-tabular-data) |
@@ -221,6 +222,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date | Name          | Paper                                                        | Publication | Code                                                         |
 | ---: | :------------ | :----------------------------------------------------------- | :---------- | :----------------------------------------------------------- |
+| 2026 | TabICLv2 | [TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model](https://arxiv.org/abs/2602.11139) | ICML | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/soda-inria/tabicl) |
 | 2026 | Relatron | [Relatron: Automating Relational Machine Learning over Relational Databases](https://openreview.net/forum?id=59avbH4HnU) | ICLR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amazon-science/Automating-Relational-Machine-Learning) |
 | 2026 | CausalFM | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://openreview.net/forum?id=d2L1ndOKjq) | ICLR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yccm/CausalFM) |
 | 2025 | TabSTAR*         | [TabSTAR: A Tabular Foundation Model for Tabular Data with Text Fields](https://openreview.net/forum?id=FrXHdcTEzE) | NeurIPS        |   [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/alanarazi7/TabSTAR)                           |
