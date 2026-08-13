@@ -125,6 +125,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date |      Name      |                            Paper                             |     Publication     |                             Code                             |
 | -- | ------------ | ---------------------------------------------------------- | ----------------- | ---------------------------------------------------------- |
+| 2026 | pTNAS | [pTNAS: Progressive Neural Architecture Search for Tabular Data](https://icml.cc/virtual/2026/poster/66496) | ICML | |
 | 2026 | TabPack | [TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning](https://arxiv.org/abs/2607.05380) | ICML | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yandex-research/tabpack) |
 | 2025 |   xRFM    | [xRFM: Accurate, scalable, and interpretable feature learning models for tabular data](https://arxiv.org/abs/2508.10053) |        CoRR         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/dmbeaglehole/xRFM) |
 | 2025 |   RFM    | [Mechanism for feature learning in neural networks and backpropagation-free machine learning models](https://www.science.org/doi/10.1126/science.adi5639) |        Science         | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/aradha/recursive_feature_machines/tree/pip_install) |
@@ -304,6 +305,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Interpretability**
 
+- [Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models](https://openreview.net/forum?id=IxpVGcg39J) [[Code](https://github.com/amirbalef/is_one_layer_enough)]
 - [Tabnet: Attentive interpretable tabular learning](https://ojs.aaai.org/index.php/AAAI/article/view/16826)
 - [Tabtransformer: Tabular data modeling using contextual embeddings](https://arxiv.org/abs/2012.06678)
 - [Revisiting deep learning models for tabular data](https://proceedings.neurips.cc/paper_files/paper/2021/hash/9d86d83f925f2149e9edb0ac3b49229c-Abstract.html)
