@@ -293,6 +293,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Tabular Generation**
 
+- [Active Tabular Augmentation via Policy-Guided Diffusion Inpainting](https://arxiv.org/abs/2605.10315) [[Code](https://github.com/oooranz/TAP)]
 - [AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking](https://arxiv.org/abs/2606.03347) 
 - [GATD: Geometry-Aware Tabular Diffusion](https://arxiv.org/abs/2606.02607)
 - [Using maximal information auxiliary variables to improve synthetic data generation based on TabPFN foundation models](https://openreview.net/forum?id=6PkiUAcTWF)
