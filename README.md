@@ -223,6 +223,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 | Date | Name          | Paper                                                        | Publication | Code                                                         |
 | ---: | :------------ | :----------------------------------------------------------- | :---------- | :----------------------------------------------------------- |
+| 2026 | TabSwift | [TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention](https://arxiv.org/abs/2606.07345) | ICML | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/LAMDA-Tabular/TabSwift) |
 | 2026 | TabICLv2 | [TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model](https://arxiv.org/abs/2602.11139) | ICML | [![Static Badge](https://badgen.net/badge/color/Code/black?label=)](https://github.com/soda-inria/tabicl) |
 | 2026 | Relatron | [Relatron: Automating Relational Machine Learning over Relational Databases](https://openreview.net/forum?id=59avbH4HnU) | ICLR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/amazon-science/Automating-Relational-Machine-Learning) |
 | 2026 | CausalFM | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://openreview.net/forum?id=d2L1ndOKjq) | ICLR | [![Code](https://badgen.net/badge/color/Code/black?label=)](https://github.com/yccm/CausalFM) |
