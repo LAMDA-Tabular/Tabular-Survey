@@ -317,6 +317,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Open-Environment Tabular Machine Learning**
 
+- [Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment](https://arxiv.org/abs/2605.04363) [[Code](https://github.com/seunghan96/DistPFN)]
 - [Prior-free Tabular Test-time Adaptation](https://openreview.net/forum?id=BgSDPE24pa) [[Code](https://github.com/rundohe/PFT3A)]
 - [TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling](https://arxiv.org/abs/2410.24210)	
 - [Driftresilient tabpfn: In-context learning temporal distribution shifts on tabular data](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b2e2774c8e76afe191b5bf518f5cb727-Abstract-Conference.html)
