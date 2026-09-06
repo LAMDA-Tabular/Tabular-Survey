@@ -284,6 +284,7 @@ Additionally, we explore ensemble methods, which integrate the strengths of mult
 
 > **Anomaly Detection**
 
+- [From Zero to Hero: Advancing Zero-Shot Foundation Models for Tabular Outlier Detection](https://openreview.net/forum?id=wjpdXrHxUi) [[Code](https://github.com/psorus/Outformer)]
 - [ReTabAD: A Benchmark for Restoring Semantic Context in Tabular Anomaly Detection](https://openreview.net/forum?id=UFwgg44VZq)
 - [uLEAD-TabPFN: Uncertainty-aware Dependency-based Anomaly Detection with TabPFN](https://arxiv.org/abs/2604.20255)
 - [Anomaly detection for tabular data with internal contrastive learning](https://openreview.net/forum?id=_hszZbt46bT)
